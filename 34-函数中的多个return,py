@@ -1,0 +1,11 @@
+def test():
+    a = 11
+    b = 12
+    c = 13
+   # d = [a,b,c]
+   # return d
+    return [a,b,c] 
+    
+
+num = test()
+print(num)
